@@ -77,9 +77,9 @@ uvicorn main:app --reload
 
 ## 📈 Progress Tracking
 
-* [x] Setup FastAPI project
-* [x] Basic routes
-* [x] Path & Query parameters
+* [ ] Setup FastAPI project
+* [ ] Basic routes
+* [ ] Path & Query parameters
 * [ ] Request body validation
 * [ ] Pydantic models
 * [ ] Database integration
