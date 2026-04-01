@@ -1,0 +1,202 @@
+[
+  {
+    "sid": "S001",
+    "name": "Aarav Patel",
+    "course": "MCA",
+    "age": 20,
+    "email": "aarav.patel@gmail.com",
+    "phone": "9876543210",
+    "enrollment_year": 2023,
+    "is_active": true
+  },
+  {
+    "sid": "S002",
+    "name": "Riya Shah",
+    "course": "MCA",
+    "age": 21,
+    "email": "riya.shah@gmail.com",
+    "phone": "9876543211",
+    "enrollment_year": 2022,
+    "is_active": true
+  },
+  {
+    "sid": "S003",
+    "name": "Kunal Mehta",
+    "course": "Mechanical Engineering",
+    "age": 22,
+    "email": "kunal.mehta@gmail.com",
+    "phone": "9876543212",
+    "enrollment_year": 2021,
+    "is_active": false
+  },
+  {
+    "sid": "S004",
+    "name": "Sneha Joshi",
+    "course": "Electrical Engineering",
+    "age": 20,
+    "email": "sneha.joshi@gmail.com",
+    "phone": "9876543213",
+    "enrollment_year": 2023,
+    "is_active": true
+  },
+  {
+    "sid": "S005",
+    "name": "Devansh Trivedi",
+    "course": "Civil Engineering",
+    "age": 23,
+    "email": "devansh.t@gmail.com",
+    "phone": "9876543214",
+    "enrollment_year": 2021,
+    "is_active": true
+  },
+  {
+    "sid": "S006",
+    "name": "Priya Desai",
+    "course": "Information Technology",
+    "age": 21,
+    "email": "priya.desai@gmail.com",
+    "phone": "9876543215",
+    "enrollment_year": 2022,
+    "is_active": true
+  },
+  {
+    "sid": "S007",
+    "name": "Harsh Vora",
+    "course": "MCA",
+    "age": 20,
+    "email": "harsh.vora@gmail.com",
+    "phone": "9876543216",
+    "enrollment_year": 2023,
+    "is_active": false
+  },
+  {
+    "sid": "S008",
+    "name": "Anjali Bhatt",
+    "course": "MCA",
+    "age": 22,
+    "email": "anjali.bhatt@gmail.com",
+    "phone": "9876543217",
+    "enrollment_year": 2021,
+    "is_active": true
+  },
+  {
+    "sid": "S009",
+    "name": "Yash Pandya",
+    "course": "Mechanical Engineering",
+    "age": 23,
+    "email": "yash.pandya@gmail.com",
+    "phone": "9876543218",
+    "enrollment_year": 2020,
+    "is_active": true
+  },
+  {
+    "sid": "S010",
+    "name": "Nisha Parmar",
+    "course": "Civil Engineering",
+    "age": 21,
+    "email": "nisha.parmar@gmail.com",
+    "phone": "9876543219",
+    "enrollment_year": 2022,
+    "is_active": true
+  },
+  {
+    "sid": "S011",
+    "name": "Rahul Solanki",
+    "course": "Electrical Engineering",
+    "age": 22,
+    "email": "rahul.solanki@gmail.com",
+    "phone": "9876543220",
+    "enrollment_year": 2021,
+    "is_active": false
+  },
+  {
+    "sid": "S012",
+    "name": "Meera Iyer",
+    "course": "Information Technology",
+    "age": 20,
+    "email": "meera.iyer@gmail.com",
+    "phone": "9876543221",
+    "enrollment_year": 2023,
+    "is_active": true
+  },
+  {
+    "sid": "S013",
+    "name": "Arjun Nair",
+    "course": "MCA",
+    "age": 21,
+    "email": "arjun.nair@gmail.com",
+    "phone": "9876543222",
+    "enrollment_year": 2022,
+    "is_active": true
+  },
+  {
+    "sid": "S014",
+    "name": "Pooja Yadav",
+    "course": "MCA",
+    "age": 22,
+    "email": "pooja.yadav@gmail.com",
+    "phone": "9876543223",
+    "enrollment_year": 2021,
+    "is_active": true
+  },
+  {
+    "sid": "S015",
+    "name": "Vikram Singh",
+    "course": "Mechanical Engineering",
+    "age": 23,
+    "email": "vikram.singh@gmail.com",
+    "phone": "9876543224",
+    "enrollment_year": 2020,
+    "is_active": false
+  },
+  {
+    "sid": "S016",
+    "name": "Kavya Reddy",
+    "course": "Civil Engineering",
+    "age": 21,
+    "email": "kavya.reddy@gmail.com",
+    "phone": "9876543225",
+    "enrollment_year": 2022,
+    "is_active": true
+  },
+  {
+    "sid": "S017",
+    "name": "Aditya Verma",
+    "course": "Electrical Engineering",
+    "age": 22,
+    "email": "aditya.verma@gmail.com",
+    "phone": "9876543226",
+    "enrollment_year": 2021,
+    "is_active": true
+  },
+  {
+    "sid": "S018",
+    "name": "Simran Kaur",
+    "course": "Information Technology",
+    "age": 20,
+    "email": "simran.kaur@gmail.com",
+    "phone": "9876543227",
+    "enrollment_year": 2023,
+    "is_active": true
+  },
+  {
+    "sid": "S019",
+    "name": "Rohan Das",
+    "course": "MCA",
+    "age": 21,
+    "email": "rohan.das@gmail.com",
+    "phone": "9876543228",
+    "enrollment_year": 2022,
+    "is_active": false
+  },
+  {
+    "sid": "S020",
+    "name": "Neha Choudhary",
+    "course": "MCA",
+    "age": 22,
+    "email": "neha.choudhary@gmail.com",
+    "phone": "9876543229",
+    "enrollment_year": 2021,
+    "is_active": true
+  }
+]
