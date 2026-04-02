@@ -20,7 +20,7 @@ def view():
     return data
 
 @app.get('/student/{student_id}')
-def search_student(student_id: str = Path(..., description='ID of the student in DB', example='S001')):
+def search_student(student_id: str = Path(..., description='ID of the student in DB', examples='S001')):
     data = load_data()
 
     for student in data:
